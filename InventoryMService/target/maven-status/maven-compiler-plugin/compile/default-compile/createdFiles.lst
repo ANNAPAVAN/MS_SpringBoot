@@ -1,0 +1,7 @@
+com\pavan\model\Inventory.class
+com\pavan\controller\InventoryController.class
+com\pavan\service\InventoryService.class
+com\pavan\dto\InventoryResponse.class
+com\pavan\dto\InventoryResponse$InventoryResponseBuilder.class
+com\pavan\InventoryMServiceApplication.class
+com\pavan\repository\InventoryRepository.class
