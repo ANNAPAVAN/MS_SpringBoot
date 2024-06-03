@@ -22,6 +22,8 @@ public class InventoryController {
 	
 	private final InventoryService inventoryService;
 	
+	// Url's
+	
 	//   http://localhost:2028/api/inventory/iphone-13,iphone13-red
 	
 	//   http://localhost:2028/api/inventory?skuCode=iphone-13&skuCode=iphone13-red

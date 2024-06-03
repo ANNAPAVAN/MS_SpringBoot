@@ -16,7 +16,7 @@ public class InventoryMServiceApplication {
 	
 	public static void main(String[] args) {
 		SpringApplication.run(InventoryMServiceApplication.class, args);
-		System.out.println("Inventry Micro Service Started ........");
+		System.out.println("Inventry Micro Service Started ......");
 	}
 	
 	@Bean
